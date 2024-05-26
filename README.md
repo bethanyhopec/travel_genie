@@ -11,7 +11,7 @@ Travel Genie is a virtual travel planner AI assistant that helps you plan your t
 
 ## To use Travel Genie
 
-- **Run the application using streamlit run travel_genie.py after replacing the placeholder API key with your own.
-- **Select your areas of interest and travel style.
-- **Enter a question about your trip plans in the text box (optional but recommended).
-- **Click "Plan my trip" to see recommendations tailored to your preferences.
+- Run the application using streamlit run travel_genie.py after replacing the placeholder API key with your own.
+- Select your areas of interest and travel style.
+- Enter a question about your trip plans in the text box (optional but recommended).
+- Click "Plan my trip" to see recommendations tailored to your preferences.
